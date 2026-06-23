@@ -7,3 +7,8 @@
 	path = ingadhoc/stock
 	url = git@github.com:ingadhoc/stock.git
 	branch = 18.0
+
+[submodule "ingadhoc/argentina-sale"]
+	path = ingadhoc/argentina-sale
+	url = git@github.com:ingadhoc/argentina-sale.git
+	branch = 18.0
