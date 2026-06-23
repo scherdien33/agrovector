@@ -2,3 +2,8 @@
 	path = ingadhoc/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 18.0
+
+[submodule "ingadhoc/stock"]
+	path = ingadhoc/stock
+	url = git@github.com:ingadhoc/stock.git
+	branch = 18.0
