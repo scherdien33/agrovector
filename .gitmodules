@@ -9,3 +9,8 @@
 	path = ingadhoc/account-payment
 	url = git@github.com:ingadhoc/account-payment.git
 	branch = 18.0
+
+[submodule "ingadhoc/account-invoicing"]
+	path = ingadhoc/account-invoicing
+	url = git@github.com:ingadhoc/account-invoicing.git
+	branch = 18.0
